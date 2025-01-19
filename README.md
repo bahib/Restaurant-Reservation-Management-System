@@ -146,23 +146,27 @@ This project is a **Restaurant Reservation Management System** built with a full
 ```bash
 git clone https://github.com/bahib/Restaurant-Reservation-Management-System.git
 cd restaurant-reservation-system
----
+
+```
+
 
 ### **2. Install Dependencies**
 ```bash
 npm install
 
+```
 ### **3. Start the Application**
-### For the **frontend**:
+#### For the **frontend**:
 ```bash
 cd frontend
 npm start
-
-### For the **backend**:
+```
+#### For the **backend**:
 ```bash
 cd backend
 npm start
 
+```
 ## **Usage**
 - Register a user or log in as an admin to access additional functionalities.
 - Use the admin dashboard to manage tables and reservations.
